@@ -118,7 +118,7 @@ Defaults to:
 ## 📦 Dependencies
 
 - `ImageMagick` for image manipulation.
-- `Neovim` 0.5.0 or higher.
+- `Neovim` (Obviously).
 - `Kitty` for displaying the image.
 
 ##  TODO:
