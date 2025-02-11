@@ -24,7 +24,7 @@ and manipulation.
 
 2. *INSTALLATION*
 
-Use your preferred plugin manager, e.g., with lazy.nvim:
+Use your preferred plugin manager, e.g., with `lazy.nvim`:
 >lua
   {
       'Toprun123/PicVim',
